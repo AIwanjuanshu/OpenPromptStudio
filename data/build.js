@@ -47,6 +47,7 @@ function addToMap(item) {
     const subTypeMap = {
         普通: "normal",
         风格: "style",
+        场景: "scene",
         质量: "quality",
         命令: "command",
         负面: "eg",
